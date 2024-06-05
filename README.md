@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Zwanski</h1>
+
+https://avatars.githubusercontent.com/u/53589819?v=4<h1 align="center">Hi 👋, I'm Mohamed Zwanski</h1>
 <h3 align="center">Frontend Developer & Cyber Security Enthusiast </h3>
 
 <p align="left">
