@@ -4,7 +4,27 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zwanski2019&label=Profile%20views&color=0e75b6&style=flat" alt="zwanski2019" />
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zwanski2019&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zwanski2019&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwanski2019&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zwanski2019&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zwanski2019&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=zwanski2019&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left">
   <a href="https://twitter.com/https://x.com/zwanski_dz" target="blank">
     <img src="https://img.shields.io/twitter/follow/https://x.com/zwanski_dz?logo=twitter&style=for-the-badge" alt="https://x.com/zwanski_dz" />
